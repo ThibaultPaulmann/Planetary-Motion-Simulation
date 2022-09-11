@@ -1,0 +1,1 @@
+Sol,1988500e24,0,0,yellow,4Mercury,0.33010e24,46e9,58.98e3,grey,0.4Venus,4.8673e24,107.480e9,35.26e3,orange,1.1Earth,5.9722e24,147.095e9,30.29e3,skyblue,1Mars,0.64169e24,206.650e9,26.50e3,orangered,0.9
